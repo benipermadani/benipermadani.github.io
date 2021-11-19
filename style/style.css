@@ -8,7 +8,7 @@
   margin: 20px auto;
   padding-top: 5px;
   padding-bottom: 5px;
-  background:#62f8f1;//menambahkan background
+  background:#62f8f1;
 }
 #header {
   width: 900px; /* mengurangi besar width oleh padding-left */
@@ -36,21 +36,20 @@
   float: left;
   width: 300px;
   height:auto;
- 
+}
 
   .judul_1{
     display:block;
     height:40px;
-    background:#669900;
+    background:#0e2646;
     font:20pt "Script MT Bold";
     color:#fff;
-    
-    12
+  
     
     text-align:center;
-    border:1px solid red;
+    border:1px solid rgb(161, 189, 38);
     }
-  }
+  
 
 #menu ul{
     list-style:none;
@@ -67,9 +66,9 @@
     border-left:1px solid rgb(15, 50, 116);
     border-right:1px solid rgb(15, 50, 116);
     padding-left:20px;
-    hover{
+    hover
       background:#666633;
-      color:#fff;}
+      color:#fff;
     }
 
 #content {
@@ -79,15 +78,16 @@ height:auto;
 float:right;
 background:#48eeca;
 padding:15px;
+}
 
-.judul_2
+.judul_2{
   display:block;
   border-bottom:2px solid #000;
   font:26pt "Script MT Bold";
   color:rgb(0, 0,0);
   padding-bottom:10px;
-  
 }
+
   .img{
   width:250px;
   height:200px;
